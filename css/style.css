@@ -17,3 +17,9 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#header  li{
+    list-style-type: none;
+    display: inline;
+    padding-right: 1rem;
+}
