@@ -17,3 +17,24 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#header  li{
+    list-style-type: none;
+    display: inline;
+    padding-right: 1rem;
+}
+
+
+#header {
+    background: blue;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, .5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5rem;
+}
+
+#header a{
+    background-color: white;
+    border-radius: 5px;
+}
